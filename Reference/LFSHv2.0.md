@@ -82,4 +82,4 @@ X Window系统，版本号:11，发行版本：6
 #### /var/tmp 	
 存放重启后保留的临时文件
 
-[![LFSGv2.0-Small.png](https://i.loli.net/2019/04/01/5ca21ef5c4c11.png)]()
+[![LFSGv2.0-Small.png](https://i.loli.net/2019/04/01/5ca21ef5c4c11.png)](https://github.com/seuite/seuite-docs/raw/master/arch/LFSHv2.0.png)
