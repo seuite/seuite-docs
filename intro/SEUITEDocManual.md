@@ -47,37 +47,6 @@
     > [x] 你可以通过输入这个网址来访问SEUITE文档库，你可以查看SEUITE的各类文档和教程
     - 详情参考[SEUITE文档格式规范](https://docs.seu.services/#/Reference/SEUITEStyleGuide#)中对[写作风格](https://docs.seu.services/#/Reference/SEUITEStyleGuide#写作风格)的相关说明
 
-- 写作风格
-    - 简约清爽
-    > [√] 做好准备？加入我们！
-    >
-    > [x] 当你做好了加入SEUITE的各种准备，请联系我们的成员以获取加入方式
-    - 读者友好和可读性高
-    > [√] 你应该输入一个类似这样的ID: yourID@example.com
-    >
-    > [x] 无效的ID  
-    - 直达重点
-    > [√] 通过创建一个包含最常使用的样式，字体和页面布局模板来节省时间。之后每次新建文档时都可使用该模板
-    >
-    > [x] 模板提供了一个创建新文档的起点。 模板可以包含您经常使用的样式，格式和页面布局。 如果您经常对文档使用相同的页面布局和样式，请考虑创建模板。
-    - 简明扼要
-    > [√] 使用example命令的exam参数即可创建适合您数据的图表。
-    >
-    > [x] example命令的exam参数建议可能可以很好地表示数据的图表。如果要以可视方式显示数据，但您不确定如何执行此操作时，请使用该命令。
-    - 跳过标题结束符（。：！？）
-    > [√] 移动一个词条
-    > <br>拖动他
-    >
-    > [x] 移动一个词条：
-    > <br>拖动他
-    - 加上最后一个逗号
-    > [√] 
-    > 
-    > 
-    - 少用空格
-    - 不要用虚称开头，用动词
-    - 详情参考[SEUITE文档格式规范](https://docs.seu.services/#/Reference/SEUITEDocReference#)中对[写作风格](https://docs.seu.services/#/Reference/SEUITEDocReference#写作风格)的相关说明
-
 - 标点符号的使用
 
     - 以下标点符号**必须**使用半角符号
