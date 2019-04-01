@@ -13,7 +13,11 @@
 
 SEUITE 使用微软写作格式指南中推荐的方式写作，具体参见[Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 
-- 简明扼要
+## 文件名
+
+文档的文件名不得含有空格。
+
+文件名必须使用半角字符，不得使用全角字符。这也意味着，中文不能用于文件名。
 
 ## 标点符号
 
