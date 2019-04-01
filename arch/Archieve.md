@@ -46,3 +46,8 @@
 - Logo_CPC.png(8KB)
     - 引用：https://i.loli.net/2019/03/28/5c9ce7b50879e.png
     - 删除：https://sm.ms/delete/CV82m7LKzJugpfW
+
+- LFSGv2.0-Small.png(90KB)
+    - 引用：https://i.loli.net/2019/04/01/5ca21ef5c4c11.png
+    - 删除：https://sm.ms/delete/oHUf7Rhn3iTbW6c
+
