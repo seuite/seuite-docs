@@ -1,5 +1,5 @@
-SWOT（Strengths Weakness Opportunity Threats）分析法
----
+# SWOT（Strengths Weakness Opportunity Threats）分析法
+
 
 ## 竞争优势 Strength
 
