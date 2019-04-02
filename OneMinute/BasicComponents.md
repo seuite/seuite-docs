@@ -1,5 +1,8 @@
-# BasicComponets
 # 基本组件设置
+
+## 一行代码登录SEU-Wlan
+curl -3 'https://w.seu.edu.cn/portal/login.php' -d 'username=your_username' -d 'password=your_password'
+
 ## Nginx
 Set Nginx Installed by a Prebuilt CentOS/RHEL Package from the OS Repository
 ```
@@ -37,6 +40,7 @@ Start the Nginx
 ```
 $ service nginx start
 ```
+
 ### Nginx容器
 重载配置
 ```
