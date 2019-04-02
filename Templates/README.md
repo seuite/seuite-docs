@@ -1,97 +1,21 @@
-常用文档模板
-------
+# 常用文档模板
 
 ## 概述
 
 优质的文档，可以帮助作者准确地传递信息。好的文档模板，不但可以帮助作者写出优质的文档，还能帮助作者系统地思考问题。
 
-## 贡献者
+## 目录
 
-|用户名|积分|更新时间|
-|------|---:|--------|
-|[ChineseDron](https://github.com/ChineseDron)|1|2014.05.23|
+- [README.md模板](/Templates/README-Template) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates//README-Template)
 
+- [启动项目前的思考](/Templates/BeforeProject) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/BeforeProject)
 
-本项目就是为书写各种文档提供骨架和范本，做一些对人类有意义的事。
-个人身单力薄，所谓众人拾柴火焰高，欢迎大家向我们 `Pull Requests`。
+- [SWOT分析法](/Templates/SWOT) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/SWOT)
 
-## 要求
+- [软件总体设计说明书](/Templates/SoftWareManual) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/SoftWareManual)
 
-* Markdown 格式，方便维护和查看迭代。
-* 使用 HTML 注释描述需要填写的内容说明，如：`<!-- 编辑状态才可以看见这些注释。 -->`
-* 来源注明出处，尊重别人的劳动果实。
+- [目标管理原则S.M.A.R.T.](/Templates/SMART) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/SMART)
 
-## 贡献奖励
+- [周报模板](/Templates/WeeklyReport) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/WeeklyReport)
 
-* 按 `Pull Requests` 成功一次积一分算。
-* 暂时没有物质奖励，如有 壕 赞助可以筹划。
-
-## TODO
-
-* [ ] 产品调研文档
-* [ ] 技术调研文档
-* [ ] 测试用例文档
-* [ ] 测试反馈文档
-* [ ] 软件总体设计文档
-* [ ] 软件详细设计文档
-
-# 为何要启动文档模板项目？
-
----
-
-## 目标
-
-> 用清晰的语言描述你的目标（不带任何技术词汇）？
-
-收录和整理常用文档模板，帮助作者写出优质的文档
-
-## 现状
-
-> 有没有类似的东西，它们的缺点是什么？
-
-百度百科、维基百科等在创建文档时有很多可选的文档模板（大纲）
-
-### 不足
-
-* 文档种类有限，有一些文档是不便于公开的，也有一些文档并非知识点。
-
-## 方案
-
-> 你打算采取什么新的方法，为什么你觉得这样会更好？
-
-* 采用 `Markdown` 文件格式，方便流通和迭代
-* 贡献排行榜，让更多的人参与到项目的贡献中并能获得荣誉和奖励
-
-## 目标用户
-
-> 谁关心这个东西，你是给谁做的？
-
-* 作者，能够找到优质的文档模板，编写出优质的文档。
-* 贡献者，获得荣誉和奖励
-
-## 收益评估
-
-> 如果你做成了会带来哪些变化？
-
-* 使作者写出更多优质的文档
-* 让更多人参与分享和交流
-
-## 风险评估
-
-> 风险和成本都有哪些？
-
-* Github 学习成本
-
-## 项目周期
-
-> 要做多久？
-
-* 无限期。。。
-
-## 里程碑
-
-> 如何在期中和期末截断衡量这件事是否成功？
-
-|时间点|达到状态|备注|
-|------|--------|----|
-|2014年6月|模板数增加100份|优质模板|
+- [事故通报](/Templates/AccidentNotification) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/AccidentNotification.md)
