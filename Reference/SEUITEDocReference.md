@@ -35,9 +35,9 @@ SEUITE 使用微软写作格式指南中推荐的方式写作，具体参见 [Mi
 - 同一内容块中的同一标点符号应格式一致
 - 代码块中**禁止**使用全角符号
 
-# 文本
+## 文本
 
-## 字间距
+### 字间距
 
 （1）全角中文字符与半角英文字符之间，应有一个半角空格。
 
@@ -79,7 +79,7 @@ SEUITE 使用微软写作格式指南中推荐的方式写作，具体参见 [Mi
 正确：他的电脑是 MacBook Air。
 ```
 
-## 句子
+### 句子
 
 （1）避免使用长句。
 
@@ -117,7 +117,7 @@ SEUITE 使用微软写作格式指南中推荐的方式写作，具体参见 [Mi
 正确：用户必须拥有删除权限，才能删除此文件。
 ```
 
-## 写作风格
+### 写作风格
 
 （1）尽量不使用被动语态，改为使用主动语态。
 
@@ -172,7 +172,7 @@ SEUITE 使用微软写作格式指南中推荐的方式写作，具体参见 [Mi
 正确：此设备必须在技师的指导下使用，且指导技师必须接受过由本公司举办的正式设备培训。
 ```
 
-## 英文处理
+### 英文处理
 
 （1）英文原文如果使用了复数形式，翻译成中文时，应该将其还原为单数形式。
 
@@ -219,7 +219,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 “online transaction processing”（在线事务处理）不是专有名词，不应大写。
 ```
 
-## 数值范围
+### 数值范围
 
 表示数值范围时，用`～`连接。参见《标点符号》一节的“连接号”部分。
 
@@ -233,7 +233,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 正确：67%～89%
 ```
 
-## 代码规范
+### 代码规范
 
 https://google.github.io/styleguide/
 
@@ -252,15 +252,3 @@ SEUITE的版本管理遵照[SemVer2.0](http://semver.org/)要求进行，我们�
 - Alpha版(内部测试版)：一般只在软件开发组织内部运行，不对外公开。主要是开发者自己对产品进行测试，检查产品是否存在缺陷、错误，验证产品功能与说明书、用户手册是否一致。　　
 - Beta版(外部测试版)：非正式版本，免费发送给具有典型性的用户，让用户测试该软件的不足之处及存在问题，以便在正式发行前进一步改进和完善。该版本一般可通过Internet免费下载。　　 
 - Demo版(演示版)：演示正式软件的部分功能的非正式版本，用户可以从中得知软件的基本操作，该版本一般可通过Internet免费下载。　　 　　 　　 
-
-# 参考链接
-
-- [产品手册中文写作规范](http://wenku.baidu.com/view/23cc1a6527d3240c8447efbf.html), by 华为
-- [写作规范和格式规范](http://docs.daocloud.io/write-docs/format), by DaoCloud
-- [技术写作技巧在日汉翻译中的应用](http://www.hitachi-tc.co.jp/company/thesis/thesis.pdf), by 刘方
-- [简体中文规范指南](https://www.lengoo.de/documents/styleguides/lengoo_styleguide_ZH.pdf), by lengoo
-- [文档风格指南](https://open.leancloud.cn/copywriting-style-guide.html), by LeanCloud
-- [豌豆荚文案风格指南](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit), by 豌豆荚
-- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines), by sparanoid
-- [为什么文件名要小写？](http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html), by 阮一峰
-
