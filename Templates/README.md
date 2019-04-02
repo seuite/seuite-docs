@@ -20,4 +20,4 @@
 
 - [事故通报](/Templates/AccidentNotification) - [点此下载](https://raw.githubusercontent.com/seuite/seuite-docs/master/Templates/AccidentNotification.md)
 
-- [软件设计国家标准](/arch/软件设计国家标准GB8567-88) - [点此下载](https://github.com/seuite/seuite-docs/master/Templates/
+- [软件设计国家标准](/arch/软件设计国家标准GB8567-88) - [点此下载](https://github.com/seuite/seuite-docs/master/Templates/arch/软件设计国家标准GB8567-88)
