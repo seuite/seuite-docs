@@ -235,6 +235,8 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 ### 代码规范
 
+![CodeQuality.jpg](https://i.loli.net/2019/04/06/5ca87b7dac457.jpg)
+
 https://google.github.io/styleguide/
 
 http://checkstyle.sourceforge.net/config.html
