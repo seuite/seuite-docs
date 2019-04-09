@@ -1,6 +1,6 @@
 # Useful Linux Command Manual
 
-For System Information checking:
+获取各种系统信息:
 ```
 $ sudo cat /proc/cpuinfo
 ```
@@ -37,6 +37,15 @@ id user
 ```
 whereis yourcommand
 ```
+
+## LVM 用法
+
+如果出现 pv excluded in filter, 你可能可以通过如下方式解决问题
+
+`$wipefs -a /dev/sdi` 清除 FS/GPT 签名
+
+重新分区后再试一次
+
 
 ## 创建chroot监狱
 
