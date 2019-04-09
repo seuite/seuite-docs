@@ -46,6 +46,7 @@ whereis yourcommand
 
 重新分区后再试一次
 
+参考<https://www.redhat.com/archives/linux-lvm/2018-May/msg00047.html>
 
 ## 创建chroot监狱
 
