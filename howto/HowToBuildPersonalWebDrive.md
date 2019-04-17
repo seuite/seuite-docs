@@ -20,3 +20,12 @@
     Password: # 输入用户的密码
     ```
 4. 配置好客户端即可
+
+## h5ai
+
+1. 配置好基础环境：Docker
+2. 运行
+    ```bash
+    docker run -d -p $Your_port:80 -v $PWD:/h5ai --name h5ai ilemonrain/h5ai:full #https://blog.ilemonrain.com/docker/h5ai.html
+    ```
+3. 访问你配置好的端口即可
