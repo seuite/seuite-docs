@@ -242,5 +242,5 @@ await readFile()
 - @proxy 代理
 
 ## 想知道更多？
-- [Dart 中文网](http://dart.goodev.org/guides/get-started)
-- [Dart 官方网站](https://www.dartlang.org/)
+
+- [Dart 官方中文文档](https://flutter-io.cn/docs)
